@@ -1,53 +1,86 @@
-# Awesome Web Scraping
+# Awesome Web Scraping [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Lists of packages, services and manuals related to web scraping.
+> A curated list of 130+ web scraping libraries, tools, services, and guides across 7 programming languages.
 
-## Topics
+**⭐ Star this repo** to bookmark it — updated regularly with new tools.
 
-* [Python](https://github.com/lorien/web-scraping/blob/master/python.md) - Python packages
-* [PHP](https://github.com/lorien/web-scraping/blob/master/php.md) - PHP packages
-* [Ruby](https://github.com/lorien/web-scraping/blob/master/ruby.md) - Ruby packages
-* [JavaScript](https://github.com/lorien/web-scraping/blob/master/javascript.md) - JavaScript packages
-* [Go](https://github.com/lorien/web-scraping/blob/master/golang.md) - Go packages
-* [Command Line Tools](https://github.com/lorien/web-scraping/blob/master/cli.md) - tools with a command line interface
-* [Web Scraping Manuals](https://github.com/lorien/awesome-web-scraping/blob/master/manuals.md) - list of articles and books teaching web scraping
-* [dhamaniasad / HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - list of (almost) all headless web browsers in existence
-* [DNS over HTTPS providers](https://github.com/curl/curl/wiki/DNS-over-HTTPS) - list of DNS over HTTPs providers
-* [Awesome Pastebins](https://github.com/lorien/awesome-pastebins) - list of pastebin sites
+> **Need a custom scraper built for you?** I've built 77 production scrapers. Email **spinov001@gmail.com** for a quote.
+
+---
+
+## Contents
+
+- [Python](#python) — Scrapy, BeautifulSoup, Playwright, and 40+ more
+- [JavaScript](#javascript) — Puppeteer, Cheerio, Crawlee, and 20+ more
+- [Go](#go) — Colly, GoQuery, Rod, and more
+- [PHP](#php) — Goutte, Panther, and more
+- [Ruby](#ruby) — Nokogiri, Mechanize, and more
+- [Java](#java) — Jsoup, HtmlUnit, Selenium
+- [CLI Tools](#cli-tools) — wget, curl, jq, and more
+- [Guides & Manuals](#guides--manuals) — Articles, books, tutorials
+- [Captcha Solving](#captcha-solving-services)
+- [Proxy Services](#proxy-server-marketplaces)
+- [Related Resources](#related-resources)
+
+---
+
+## Python
+See **[python.md](python.md)** — 40+ libraries including Scrapy, BeautifulSoup, Playwright, Selenium, httpx, and more.
+
+## JavaScript
+See **[javascript.md](javascript.md)** — Puppeteer, Cheerio, Crawlee, Playwright, and more.
+
+## Go
+See **[golang.md](golang.md)** — Colly, GoQuery, Rod, Chromedp, and more.
+
+## PHP
+See **[php.md](php.md)** — Goutte, Panther, DomCrawler, and more.
+
+## Ruby
+See **[ruby.md](ruby.md)** — Nokogiri, Mechanize, Ferrum, and more.
+
+## Java
+See **[java.md](java.md)** — Jsoup, HtmlUnit, Selenium WebDriver.
+
+## CLI Tools
+See **[cli.md](cli.md)** — Command-line scraping and data processing tools.
+
+## Guides & Manuals
+See **[manuals.md](manuals.md)** — Articles, books, and tutorials on web scraping.
+
+---
 
 ## Captcha Solving Services
 
-* [https://2captcha.com](https://2captcha.com/?from=3019071)
+- [2Captcha](https://2captcha.com) — reCAPTCHA, hCaptcha, image captchas
+- [Anti-Captcha](https://anti-captcha.com) — automated captcha solving API
+- [CapMonster](https://capmonster.cloud) — self-hosted captcha solving
 
 ## Proxy Server Marketplaces
 
-* https://www.blackhatworld.com/forums/proxies-for-sale.112/
-* https://forum.antichat.com/forums/147/
+- [BrightData](https://brightdata.com) — residential, datacenter, ISP proxies
+- [Oxylabs](https://oxylabs.io) — enterprise proxy network
+- [ScraperAPI](https://scraperapi.com) — proxy + rendering in one API
+- [BlackHatWorld Proxy Forum](https://www.blackhatworld.com/forums/proxies-for-sale.112/)
 
-## Telegram Discussion Groups
-* [@grablab](https://t.me/grablab) - talks in English
-* [@grablab_ru](https://t.me/grablab_ru) - talks in Russian
+## Related Resources
 
-## Related Tools & Resources
+- [Awesome Free APIs](https://github.com/spinov001-art/awesome-free-apis) — 200+ free APIs (alternative to scraping)
+- [HN API Toolkit](https://github.com/spinov001-art/hn-api-toolkit) — Hacker News data extraction
+- [WHOIS Lookup Tools](https://github.com/spinov001-art/whois-lookup-tools) — Domain research
+- [HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) — list of headless browsers
 
-* [API Rate Limiter Patterns](https://github.com/spinov001-art/api-rate-limiter-patterns) - Production patterns for handling API rate limits in scrapers
-* [Awesome Free APIs](https://github.com/spinov001-art/awesome-free-apis) - 200+ free APIs (alternative to scraping)
-* [Email Markdown Templates](https://github.com/spinov001-art/email-markdown-templates) - Email templates for scraping reports
-* [Wine Linux Compatibility](https://github.com/spinov001-art/wine-linux-compatibility) - Run Windows scraping tools on Linux
-* [ARM CPU Benchmarks](https://github.com/spinov001-art/arm-cpu-benchmarks) - Performance benchmarks for scraping servers
-* [Markdown to PDF Tools](https://github.com/spinov001-art/markdown-to-pdf-tools) - Convert scraping reports to PDF
-* [HN API Toolkit](https://github.com/spinov001-art/hn-api-toolkit) - Hacker News data extraction
-* [npm Security Scanner](https://github.com/spinov001-art/npm-security-scanner) - Audit npm dependencies in scraping projects
-* [WHOIS Lookup Tools](https://github.com/spinov001-art/whois-lookup-tools) - Domain research for scrapers
-* [Email OSINT Toolkit](https://github.com/spinov001-art/email-osint-toolkit) - Email intelligence gathering
-* [GitHub Advisory Scanner](https://github.com/spinov001-art/github-advisory-scanner) - Security advisory monitoring
-* [Domain Expiry Monitor](https://github.com/spinov001-art/domain-expiry-monitor) - Track domain expirations
-* [Dev.to Analytics](https://github.com/spinov001-art/dev-to-analytics) - Analyze Dev.to content performance
+## Telegram Communities
 
-## How to Contribute to This List
+- [@grablab](https://t.me/grablab) — English
+- [@grablab_ru](https://t.me/grablab_ru) — Russian
 
-See [Contributing](https://github.com/lorien/web-scraping/blob/master/CONTRIBUTING.md) guide.
+---
 
-## Credits
+## Contributing
 
-The list is based initially on some data from these sources [awesome-python](https://github.com/vinta/awesome-python), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-ruby](https://github.com/markets/awesome-ruby), [ruby-nlp](https://github.com/diasks2/ruby-nlp), [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+---
+
+**Built by a developer who scrapes for a living.** Need data from any website? Email **spinov001@gmail.com** — custom scrapers starting at $50.
