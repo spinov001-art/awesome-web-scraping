@@ -66,6 +66,7 @@ See **[manuals.md](manuals.md)** — Articles, books, and tutorials on web scrap
 
 ## Related Resources
 
+- [AI Market Research Reports](https://github.com/spinov001-art/ai-market-research-reports) — 1,600+ clones — AI industry data with sources
 - [Awesome Free APIs](https://github.com/spinov001-art/awesome-free-apis) — 200+ free APIs (alternative to scraping)
 - [HN API Toolkit](https://github.com/spinov001-art/hn-api-toolkit) — Hacker News data extraction
 - [WHOIS Lookup Tools](https://github.com/spinov001-art/whois-lookup-tools) — Domain research
