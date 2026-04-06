@@ -4,7 +4,7 @@
 
 **⭐ Star this repo** to bookmark it — updated regularly with new tools.
 
-> **Need a custom scraper?** 78 production scrapers on [Apify Store](https://apify.com/knotless_cadence). Get YOUR data in CSV in 48 hours — $100 flat rate. Email **spinov001@gmail.com**
+> **Need a custom scraper built fast?** I've shipped 79 production scrapers on [Apify Store](https://apify.com/knotless_cadence). Get YOUR website data in clean CSV/JSON — delivered in 48 hours, $100 flat rate (first project). Reply by end of week for priority queue. Email **spinov001@gmail.com**
 
 ---
 
@@ -84,4 +84,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Built by a developer who scrapes for a living.** 78 scrapers on [Apify Store](https://apify.com/knotless_cadence) | 400+ weekly clones on this repo. Need data from any website? Get a custom scraper in 48 hours — $100 flat rate. Email **spinov001@gmail.com**
+**Built by a developer who scrapes for a living.** 79 scrapers on [Apify Store](https://apify.com/knotless_cadence) | 400+ weekly clones on this repo.
+
+📌 **For developers:** Need data from any website? Custom scraper delivered in 48 hours — $100 flat rate (first project). Email **spinov001@gmail.com**
+
+📌 **For companies:** Want a sponsored technical article reaching 400+ developers/week? Published author with proven delivery (Proxy-Seller series). Pilot rate: $100/article. Email **spinov001@gmail.com**
