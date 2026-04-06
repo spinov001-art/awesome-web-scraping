@@ -4,7 +4,7 @@
 
 **⭐ Star this repo** to bookmark it — updated regularly with new tools.
 
-> **Need a custom scraper built for you?** I've built 77 production scrapers. Email **spinov001@gmail.com** for a quote.
+> **Need a custom scraper?** 78 production scrapers on [Apify Store](https://apify.com/knotless_cadence). Get YOUR data in CSV in 48 hours — $100 flat rate. Email **spinov001@gmail.com**
 
 ---
 
@@ -58,6 +58,7 @@ See **[manuals.md](manuals.md)** — Articles, books, and tutorials on web scrap
 
 ## Proxy Server Marketplaces
 
+- [Proxy-Seller](https://proxy-seller.com/) — residential, mobile, ISP proxies (use code **SPINOV15** for 15% off)
 - [BrightData](https://brightdata.com) — residential, datacenter, ISP proxies
 - [Oxylabs](https://oxylabs.io) — enterprise proxy network
 - [ScraperAPI](https://scraperapi.com) — proxy + rendering in one API
@@ -83,4 +84,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
-**Built by a developer who scrapes for a living.** Need data from any website? Email **spinov001@gmail.com** — custom scrapers starting at $50.
+**Built by a developer who scrapes for a living.** 78 scrapers on [Apify Store](https://apify.com/knotless_cadence) | 400+ weekly clones on this repo. Need data from any website? Get a custom scraper in 48 hours — $100 flat rate. Email **spinov001@gmail.com**
